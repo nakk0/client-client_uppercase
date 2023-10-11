@@ -5,17 +5,10 @@ import java.io.BufferedReader;
 import java.io.DataOutputStream;
 import java.io.InputStreamReader;
 
-/**
- * Hello world!
- *
- */
 public class App 
 {
     public static void main( String[] args )
     {
-        // ServerStr server = new ServerStr();
-        // server.pause();
-        // server.communicate();
 
         try{
             System.out.println("server started and executing");
